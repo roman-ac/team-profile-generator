@@ -1,7 +1,5 @@
 const {Employee} = require('../lib/employee')
-// const {Engineer} = require('./engineer')
-// const {Manager} = require('./manager')
-// const {Intern} = require('./intern')
+
 
 describe('Employee Class Tests', () => {
     it('Has getName() as entered name.', () => {
@@ -22,3 +20,7 @@ describe('Employee Class Tests', () => {
     })
 
 })
+
+
+
+

@@ -68,9 +68,4 @@ function generateHTML(manager, engineer, intern) {
         </html>`;
 }
 
-module.exports = {
-    generateManagers,
-    generateEngineers,
-    generateInterns,
-    generateHTML
-}
+module.exports = generateHTML;
