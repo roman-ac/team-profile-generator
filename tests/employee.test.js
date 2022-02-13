@@ -1,4 +1,4 @@
-const {Employee} = require('../lib/employee')
+const {Employee, promptForEmployee} = require('../lib/employee')
 
 
 describe('Employee Class Tests', () => {

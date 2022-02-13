@@ -1,4 +1,4 @@
-const {Manager} = require('../lib/manager')
+const {Manager, promptForManager} = require('../lib/manager')
 
 
 
