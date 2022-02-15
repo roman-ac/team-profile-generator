@@ -33,4 +33,4 @@ https://watch.screencastify.com/v/pYwrQUfewFYPYwxpHUi6
 
 # Screenshot
 
-   ![screenshot](./assets/screenshot.png)
+   ![screenshot](./Assets/screenshot.png)
