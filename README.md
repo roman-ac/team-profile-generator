@@ -23,12 +23,12 @@
     
 
 
-# Link to the page
+# Link to the GITHUB page
 
 
 # Link to the walkthrough video
 
-
+https://watch.screencastify.com/v/pYwrQUfewFYPYwxpHUi6
 
 # Screenshot
 
