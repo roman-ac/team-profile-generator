@@ -25,6 +25,7 @@
 
 # Link to the GITHUB page
 
+https://github.com/roman-ac/team-profile-generator
 
 # Link to the walkthrough video
 

@@ -43,6 +43,7 @@ function generateInterns(intern){
 }
 
 // function to generate HTML files with manager, engineer and intern divs'
+
 function generateHTML(managers, engineers, interns) {
     return`<!DOCTYPE html>
         <html lang="en">
