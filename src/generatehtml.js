@@ -1,5 +1,7 @@
 // generateManagers, generateEngineers, and generateInterns
 
+// function to build manager div with manager.data
+
 function generateManagers(manager){
     return `<div class="card" style="width: 285px;"><div class="card-header">${manager.role}</div>
     <ul class="list-group list-group-flush">
@@ -11,6 +13,8 @@ function generateManagers(manager){
     </div>
     <br />`
 }
+
+// function to build engineer div with engineer.data
 
 function generateEngineers(engineer){
     return `<div class="card" style="width: 285px;"><div class="card-header">${engineer.role}</div>
@@ -24,6 +28,8 @@ function generateEngineers(engineer){
     <br />`
 }
 
+// function to build intern div with intern.data
+
 function generateInterns(intern){
     return `<div class="card" style="width: 285px;"><div class="card-header">${intern.role}</div>
     <ul class="list-group list-group-flush">
@@ -36,6 +42,7 @@ function generateInterns(intern){
     <br />`
 }
 
+// function to generate HTML files with manager, engineer and intern divs'
 function generateHTML(managers, engineers, interns) {
     return`<!DOCTYPE html>
         <html lang="en">
